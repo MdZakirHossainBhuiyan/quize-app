@@ -24,7 +24,7 @@ const Sinup = () => {
 
                     <Checkbox text=" I agree to the Terms &amp; Conditions"/>
 
-                    <Button>Submit Now</Button>
+                    <Button><span>Submit Now</span></Button>
 
                     <div className="info">
                         Already have an account? <a href="login.html">Login</a> instead
